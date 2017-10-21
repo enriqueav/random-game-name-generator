@@ -3,7 +3,8 @@
 Python port of the name generator used for https://play.google.com/store/apps/details?id=com.vgname.vgnamegenerator`
 
 **Runs on Python 2**
-**Not tested in Python 3 yet***
+
+**Not tested in Python 3 yet**
 
 To run:
 
