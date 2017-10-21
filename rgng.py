@@ -28,7 +28,7 @@ S_TITLE_TYPES = [{'type': 'S1VsS2', 'p_subtitle': [0.1, 0.9]},
                  {'type': 'CompoundWord', 'p_subtitle': [0.33, 0.67]},
                  {'type': 'RandomWord', 'p_subtitle': [0.33, 0.67]}]
 P_TITLE_TYPES = [0.15, 0.15, 0.35, 0.35]
-P_NUMERAL = [1, 0]
+P_NUMERAL = [0.3, 0.7]
 P_EDITION = [0.03, 0.97]
 
 def generate_name():
