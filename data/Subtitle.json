@@ -1,0 +1,497 @@
+{
+  "protagonists": [{
+			"name": "Heroes",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": false,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Chronicle",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Dragon",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Champion",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Conqueror",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Idol",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Defender",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Vanquisher",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Soldier",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Commander",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Fighter",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Warrior",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Master",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Sword",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Gun",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Lord",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Ninja",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Rider",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Soul",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Hunter",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Sorcerer",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Guardian",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Tale",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Bandit",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Treasure",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Story",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": false,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Rise",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": false,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Downfall",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": false,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Journey",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": false,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Apocalypse",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": false,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Book",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": false,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Ring",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": true,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Age",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": false,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Beyond",
+			"optional_the": false,
+			"optional_of": false,
+			"optional_plural": false,
+			"obligatory_of": false,
+			"optional_adjective": true
+		},
+		{
+			"name": "Wrath",
+			"optional_the": false,
+			"optional_of": true,
+			"optional_plural": false,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Rage",
+			"optional_the": false,
+			"optional_of": true,
+			"optional_plural": false,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Return",
+			"optional_the": true,
+			"optional_of": true,
+			"optional_plural": false,
+			"obligatory_of": true,
+			"optional_adjective": true
+		},
+		{
+			"name": "Blue",
+			"optional_the": true,
+			"optional_of": false,
+			"optional_plural": false,
+			"obligatory_of": false,
+			"optional_adjective": false
+		},
+		{
+			"name": "White",
+			"optional_the": true,
+			"optional_of": false,
+			"optional_plural": false,
+			"obligatory_of": false,
+			"optional_adjective": false
+		},
+		{
+			"name": "Gray",
+			"optional_the": true,
+			"optional_of": false,
+			"optional_plural": false,
+			"obligatory_of": false,
+			"optional_adjective": false
+		},
+		{
+			"name": "Dark",
+			"optional_the": true,
+			"optional_of": false,
+			"optional_plural": false,
+			"obligatory_of": false,
+			"optional_adjective": false
+		},
+		{
+			"name": "Black",
+			"optional_the": true,
+			"optional_of": false,
+			"optional_plural": false,
+			"obligatory_of": false,
+			"optional_adjective": false
+		},
+		{
+			"name": "Future",
+			"optional_the": true,
+			"optional_of": false,
+			"optional_plural": false,
+			"obligatory_of": false,
+			"optional_adjective": false
+		},
+		{
+			"name": "Past",
+			"optional_the": true,
+			"optional_of": false,
+			"optional_plural": false,
+			"obligatory_of": false,
+			"optional_adjective": false
+		},
+		{
+			"name": "Cursed",
+			"optional_the": true,
+			"optional_of": false,
+			"optional_plural": false,
+			"obligatory_of": false,
+			"optional_adjective": false
+		}
+	],
+	"adjectives": [
+		"Eternal",
+		"Small",
+		"Immortal",
+		"Great",
+		"Old",
+		"New",
+		"Big",
+		"Invisible",
+		"Created",
+		"Artificial",
+		"Occult",
+		"Failed",
+		"Poisoned",
+		"Infinite",
+		"Hot",
+		"Infinite",
+		"Legendary",
+		"Exalted",
+		"Elated",
+		"Hidden",
+		"Unseen",
+		"Black",
+		"White",
+		"Lost",
+		"Forbidden",
+		"Cursed",
+		"Fabled",
+		"Destroyed",
+		"Evaporated",
+		"Virtual",
+		"Titanic",
+		"Mystical",
+		"Mysterious",
+		"Orphic",
+		"Fallen",
+		"Unperturbed",
+		"Perturbed",
+		"Prohibited",
+		"Banned",
+		"Essential",
+		"Everlasting",
+		"Never-ending",
+		"Synthetic",
+		"Bogus",
+		"Phony",
+		"Simulated",
+		"Man-Made",
+		"Strange",
+		"Unexplained",
+		"Odd",
+		"Obscure",
+		"Ethereal",
+		"Ghostly",
+		"Radiant",
+		"Glowing",
+		"Mythical",
+		"Fictional",
+		"Perpetual",
+		"Remarkable",
+		"Haunted",
+		"Permanent",
+		"Unquestionable"
+	],
+	"subjects": [
+		"Terra",
+		"Chaos",
+		"Mayhem",
+		"Underground",
+		"Invasion",
+		"Paranoia",
+		"Ascension",
+		"Crown",
+		"Kingdom",
+		"Paradise",
+		"War",
+		"Hell",
+		"Heaven",
+		"Light",
+		"Darkness",
+		"Turmoil",
+		"Gaia",
+		"Scrolls",
+		"Empire",
+		"Freedom",
+		"Happiness",
+		"Joy",
+		"Fire",
+		"Volano",
+		"Bliss",
+		"Sorrow",
+		"Gloom",
+		"Assault",
+		"Omen",
+		"City",
+		"Island",
+		"Country",
+		"Drama",
+		"Battle",
+		"Adventure",
+		"Force",
+		"Energy",
+		"Galaxy",
+		"Galaxies",
+		"Precinct",
+		"Jail",
+		"Prison",
+		"Sacrifice",
+		"Rage",
+		"Fields",
+		"Ocean",
+		"Hope",
+		"Crystals",
+		"Republic",
+		"Fatherland",
+		"Realm",
+		"Monarchy",
+		"Disorder",
+		"Anarchy",
+		"Madness",
+		"Havoc",
+		"Conflict",
+		"Combat",
+		"Rivalry",
+		"Rapture",
+		"Dreamland",
+		"Utopia",
+		"Castle",
+		"Reign",
+		"Motherland",
+		"Hometown",
+		"Symphony",
+		"Witchcraft"
+	]
+}
