@@ -6,7 +6,7 @@ Enrique Arriaga, 2017
 Python port of the generator used in the Android app
 https://play.google.com/store/apps/details?id=com.vgname.vgnamegenerator
 """
-from modules.token import S1VsS2, VTheS, Edition, Numeral, CompoundWord, RandomWord, Subtitle
+from modules.src.token import S1VsS2, VTheS, Edition, Numeral, CompoundWord, RandomWord, Subtitle
 
 
 class TokenFactory(object):
