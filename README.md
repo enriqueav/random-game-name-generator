@@ -6,7 +6,7 @@ Python port of the name generator used for https://play.google.com/store/apps/de
 
 **Not tested in Python 3 yet**
 
-###To run
+### To run
 
 ```sh
 git clone https://github.com/enriqueav/random-game-name-generator.git
@@ -19,7 +19,7 @@ $ python rgng.py
 Eternal Witchcraft
 ```
 
-###To test
+### To test
 
 If necessary, install nose2
 ```sh
