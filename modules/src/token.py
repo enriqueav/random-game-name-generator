@@ -13,7 +13,7 @@ from abc import ABCMeta
 from numpy.random import choice, randint
 
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))
-DATA_DIR = DIR_PATH + "/../data/"
+DATA_DIR = DIR_PATH + "/../../data/"
 
 # in numpy, we use two arguments for random.choice(), the first one is
 # a list of possible values, and the second one is a list with the same size,
